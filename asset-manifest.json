@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cookwise-204/static/css/main.2ba75d51.css",
+    "main.js": "/cookwise-204/static/js/main.af997756.js",
+    "static/js/787.28cb0dcd.chunk.js": "/cookwise-204/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/cookwise-204/index.html",
+    "main.2ba75d51.css.map": "/cookwise-204/static/css/main.2ba75d51.css.map",
+    "main.af997756.js.map": "/cookwise-204/static/js/main.af997756.js.map",
+    "787.28cb0dcd.chunk.js.map": "/cookwise-204/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba75d51.css",
+    "static/js/main.af997756.js"
+  ]
+}
